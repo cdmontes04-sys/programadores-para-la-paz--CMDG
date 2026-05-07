@@ -1,1 +1,11 @@
-En la era digital, compartir información confiable es crucial. Debemos verificar las fuentes de información, evitar la desinformación y promover un comportamiento crítico en la búsqueda de datos relevantes.
+1. Identificar la fuente original: Localiza de dónde proviene la información. ¿Es un medio de comunicación reconocido, una institución oficial o un perfil personal sin credenciales?
+
+2. Verificar la fecha de publicación: Comprueba que la noticia sea actual. Muchas veces se comparten datos reales pero antiguos como si estuvieran ocurriendo en el presente, lo cual genera confusión.
+
+3. Contrastar con otras fuentes: Busca el mismo titular o dato en al menos dos o tres medios de confianza adicionales. Si nadie más lo reporta, es una señal de alerta.
+
+4. Evaluar el sesgo y el tono: Analiza si el lenguaje es neutral e informativo o si busca provocar una reacción emocional extrema (miedo, odio o alegría desmedida). El sensacionalismo suele ocultar falsedades.
+
+5. Consultar a expertos o sitios de fact-checking: Si la información es dudosa, utiliza plataformas especializadas en verificar datos (como Chequeado, Maldita.es o Newtral) para ver si la noticia ya ha sido desmentida.
+
+6. Leer más allá del titular: Antes de dar clic en "compartir", lee el contenido completo. A veces los títulos son engañosos (clickbait) y no coinciden con los hechos descritos en el cuerpo del texto
